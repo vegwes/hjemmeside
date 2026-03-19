@@ -61,7 +61,7 @@ Dette vil starte en lokal server på `http://localhost:3000`. Når du endrer fil
 - [Claude](https://claude.ai) 
 
 Om du bruker VSCode anbefaler vi å laste ned [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) for autocomplete av css klasser.
-
+halla
 ## Oppgaver
 
 _(Valgfritt! Gjerne lag noe eget.):_
